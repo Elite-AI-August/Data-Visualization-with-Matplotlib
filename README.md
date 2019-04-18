@@ -1,5 +1,6 @@
 # Data-Visualization-with-Matplotlib
 A collections of data visualizations with Matplotlib
+Examples collected from [Matplotlib Documentation](https://matplotlib.org/index.html)
 
 1. [Line Plot Example](https://github.com/KangboLu/Data-Visualization-with-Matplotlib/tree/master/1.%20line%20plot)
 
