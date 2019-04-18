@@ -1,5 +1,5 @@
-### Histogram Example
+### Scatter Plot Example
 
 ### [Official Reference](https://matplotlib.org/gallery/statistics/hist.html)
 
-![Histogram Example](https://github.com/KangboLu/Data-Visualization-with-Matplotlib/blob/master/4.%20histogram/histogram.png)
+![Scatter Plot Example](https://github.com/KangboLu/Data-Visualization-with-Matplotlib/tree/master/11.%20scatter-plot/scatter_plot.png)

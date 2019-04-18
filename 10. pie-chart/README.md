@@ -1,5 +1,5 @@
-### Histogram Example
+### Pie Chart Example
 
 ### [Official Reference](https://matplotlib.org/gallery/statistics/hist.html)
 
-![Histogram Example](https://github.com/KangboLu/Data-Visualization-with-Matplotlib/blob/master/4.%20histogram/histogram.png)
+![Pie Chart Example](https://github.com/KangboLu/Data-Visualization-with-Matplotlib/tree/master/10.%20pie-chart/pie-chart.png)

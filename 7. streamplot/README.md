@@ -1,5 +1,5 @@
-### Histogram Example
+### Streamplot Example
 
 ### [Official Reference](https://matplotlib.org/gallery/statistics/hist.html)
 
-![Histogram Example](https://github.com/KangboLu/Data-Visualization-with-Matplotlib/blob/master/4.%20histogram/histogram.png)
+![Streamplot Example](https://github.com/KangboLu/Data-Visualization-with-Matplotlib/tree/master/7.%20streamplot/streamplot.png)

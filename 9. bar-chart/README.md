@@ -1,5 +1,5 @@
-### Histogram Example
+### Bar Chart Example
 
 ### [Official Reference](https://matplotlib.org/gallery/statistics/hist.html)
 
-![Histogram Example](https://github.com/KangboLu/Data-Visualization-with-Matplotlib/blob/master/4.%20histogram/histogram.png)
+![Bar Chart Example](https://github.com/KangboLu/Data-Visualization-with-Matplotlib/tree/master/9.%20bar-chart/bar-chart.png)
